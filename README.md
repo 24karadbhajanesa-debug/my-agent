@@ -11,9 +11,6 @@ A production-style AI medicine agent that describes medicines using Gemini API a
 - **Streamlit UI**: A clean and interactive user interface.
 - **Logging**: Keeps track of queries, responses, and evaluations.
 
-- loom video
-- https://www.loom.com/share/3db8493c3beb4de29e6f250f571ba0f7
-
 ## 📁 Project Structure
 
 ```text
